@@ -1,0 +1,5 @@
+spring:
+  profiles: dev
+
+myapp:
+  message: "Конфигурация для DEV"
