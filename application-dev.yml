@@ -1,5 +1,2 @@
-spring:
-  profiles: dev
-
-myapp:
-  message: "Конфигурация для DEV"
+spring.profiles=dev
+myapp.message="Конфигурация для DEV"
